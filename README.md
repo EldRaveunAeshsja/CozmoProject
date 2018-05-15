@@ -1,2 +1,2 @@
 # CozmoProject
-Oriane, Gael, Hugo, Arnaud
+Oriane, Gael, Hugo,Yiad, Arnaud
